@@ -47,3 +47,4 @@ Describe any challenges encountered while building the app.
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 ### Notes
 Describe any challenges encountered while building the app.
+![](https://i.imgur.com/8qLsK1H.gif)
